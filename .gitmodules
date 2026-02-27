@@ -1,9 +1,9 @@
 
 [submodule "nexus/plugin.video.stremhu"]
 	path = nexusrepo/plugin.video.stremhu
-	url = https://github.com/s4ppq/plugin.video.stremhu
+	url = https://github.com/s4pp1/plugin.video.stremhu
 	branch = main
 [submodule "omega/plugin.video.stremhu"]
 	path = omega/plugin.video.stremhu
-	url = https://github.com/s4ppq/plugin.video.stremhu
+	url = https://github.com/s4pp1/plugin.video.stremhu
 	branch = main
