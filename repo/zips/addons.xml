@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<addons><addon id="repository.stremhu" name="StremHU Repository" version="1.0" provider-name="stremhu">
+    <extension point="xbmc.addon.repository" name="StremHU Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/s4pp1/repository.stremhu/main/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/s4pp1/repository.stremhu/main/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/s4pp1/repository.stremhu/main/repo/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>StremHU Repository</summary>
+        <description>A StremHU Kodi kiegészítők hivatalos tárolója.</description>
+        <disclaimer />
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
+</addon></addons>
