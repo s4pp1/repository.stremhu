@@ -1,20 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addons><addons><addon id="repository.stremhu" name="StremHU Repository" version="1.0" provider-name="stremhu">
+<addons><addon id="repository.stremhu" name="StremHU Repository" version="1.0" provider-name="stremhu">
     <extension point="xbmc.addon.repository" name="StremHU Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/s4pp1/repository.stremhu/main/repo/zips/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/s4pp1/repository.stremhu/main/repo/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/s4pp1/repository.stremhu/main/repo/zips/</datadir>
-        </dir>
-        <dir minversion="19.9.1" maxversion="20.9.0">
-            <info compressed="false">https://raw.githubusercontent.com/s4pp1/repository.stremhu/main/nexusrepo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/s4pp1/repository.stremhu/main/nexusrepo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/s4pp1/repository.stremhu/main/nexusrepo/zips/</datadir>
-        </dir>
-        <dir minversion="20.9.1">
-            <info compressed="false">https://raw.githubusercontent.com/s4pp1/repository.stremhu/main/omega/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/s4pp1/repository.stremhu/main/omega/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/s4pp1/repository.stremhu/main/omega/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
@@ -26,4 +16,4 @@
             <icon>icon.png</icon>
         </assets>
     </extension>
-</addon></addons></addons>
+</addon></addons>
