@@ -5,5 +5,9 @@
 	branch = main
 [submodule "omega/plugin.video.stremhu"]
 	path = omega/plugin.video.stremhu
-	url = https://github.com/s4pp1/plugin.video.stremhu
+	url = https://github.com/s4pp1/plugin.video.stremhu.git
+	branch = main
+[submodule "nexusrepo/plugin.video.stremhu"]
+	path = nexusrepo/plugin.video.stremhu
+	url = https://github.com/s4pp1/plugin.video.stremhu.git
 	branch = main
