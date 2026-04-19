@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addons><addon id="plugin.video.stremhu" name="StremHU" version="0.4.1" provider-name="StremHU">
+<addons><addon id="plugin.video.stremhu" name="StremHU" version="0.4.2" provider-name="StremHU">
 
   <requires>
     <import addon="xbmc.python" version="3.0.1" />
